@@ -8,9 +8,11 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">
-	 Complex TV videos.
+	 Complex News
     </summary>
-    <description lang="en">Playing content from oayalla videos</description>
+    <description lang="en">
+         This add-on has been created to provide all the Complex news. The videos are up to date everyday and every time you load this add-on.
+    </description>
     <disclaimer lang="en"></disclaimer>
     <language></language>
     <platform>all</platform>
